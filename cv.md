@@ -26,3 +26,30 @@ aigerim.99k@gmail.com\
 * English (IELTS 5.5 - Upper-intermediate )
 * Russion (fluent)
 * Kazakh(native)
+
+### **COMPUTER SKILLS**
+* Google Drive(Docs,Forms,Slides,Seets)
+* Social Media
+* Presentations(PowerPoint, Google Slides)
+* Spreadsheets(Excel,Google Sheets)
+* Power BI
+* MS Office(Word, Powerpoint,Excel,Outlook)
+
+### **EDUCATION**
+**KAZAKH-BRITISH TECHNICAL UNIVERSITY**\
+Almaty,Kazakhstan\
+Expected graduation December 2021\
+Bachelor's Degree of Computer Systems and Software Engineering\
+**NAZARBAYEV INTELLECTUAL SCHOOL**\
+Aktobe, Kazakhstan\
+Merit Based Presidential Scholarship\
+High School Diploma, 2018\
+GPA 4.8(/5)
+
+### **TECHNICAL SKILLS**
+* Programming languages (C++, JavaScript, Python)
+* WEB technologies(HTML5,CSS)
+* Databases(PostgreSQL)
+* Frameworks (AngularJS, Figma, Django, Jupiter notebook)
+* POWER BI
+* Git
