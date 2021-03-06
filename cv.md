@@ -53,3 +53,14 @@ GPA 4.8(/5)
 * Frameworks (AngularJS, Figma, Django, Jupiter notebook)
 * POWER BI
 * Git
+
+### **EXPERIENCE & ACHIVEMENTS**
+* Certificate of completion of "The hour of code" and demonstrating an understanding of the basic concepts of Computer Science (2017)
+* Certificate of attendance for attending the training in STEM+Robotics program-Computer Science 5 developed by Robomatter Inc.,USA
+* Letter of thanks from the Chairman of the Board for active participation in the organization and conduct of the performance "Heirs of the Great Steppe" on the basis of social projects and practices of the Nazarbayev Intellectual School.
+* Courses Coursera: Databases and SQL for Data Science with Python,
+                    Full-Stack Web Development with React
+
+### **CODE**
+[Web Development Course Project work](https://github.com/aigerim99k/Webdev2020/tree/master/week13)
+
