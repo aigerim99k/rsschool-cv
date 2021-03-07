@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header area */
+header{
+    padding:20px 30px 20px 30px;
+    margin:0px auto;
+    background: #160631 ;
+
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#branding h1{
+    font-size: 20px;
+    color:blueviolet;
+
+}
+
+header nav ul li{
+    float: left;
+    padding: 0 20px 20px 20px;
+    
+}
+
+
+header nav ul li:last-child{
+    padding-right: 0;
+
+}
+
+header nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+header nav ul li a:hover{
+    color: rgb(189, 14, 233);
+
+}
+
+/* Hero Area */
+
+
+#hero-area .container{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #160631;
+    padding: 0px 0px 90px 0px;
+    margin: 90px auto 90px auto;
+}
+
+#hero-area h3{
+    font-size: 25px;
+    color: #000;
+    margin-top: 35px;
+    margin-bottom: 15px;
+
+}
+
+#hero-area #hero-text{
+    text-align: center;
+    width: 50%;   
+}
+
+#hero-social{
+    margin-top: 5px;
+}
+
+#hero-image {
+    padding-left: 100px;
+}
+
+#hero-social ul li{
+    float: left;
+    padding: 3px;
+}
+
+#hero-social #follow-mw{
+    margin-top: 3px;
+}
+
+#person h3{
+    text-align: center;
+}
+#person li{
+    display: inline-block;
+    text-align: center;
+    padding: 0px 5px 0px 5px;
+    font-size: 15px;
+}
+#person ul{
+    text-align: center;
+}
+
+/* Experience */
+
+#experience  .container{
+    border-top: 1px solid #160631;
+    border-bottom: 1px solid #160631;
+    padding: 90px 0px 90px 0px;
+    margin: 90px auto 90px auto;
+
+}
+
+#experience h2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #160631;
+    margin-bottom: 50px;
+}
+
+
+#experience p{
+    margin-top: 15px;
+    line-height: 1.5em;
+}
+
+/* Education */
+
+#education h2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #160631;
+}
+
+#kbtu{
+    text-align: center;
+    margin: 10px 0px 30px 240px;
+}
+
+#nis{
+    text-align: center;
+    margin: 10px 240px 30px 0px;
+}
+
+#lang ul li{
+    float: left;
+    font-size: 15px;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+#
+#education  .container{
+    border-top: 1px solid #160631;
+    padding: 90px 0px 90px 0px;
+    margin: 90px auto 90px auto;
+    
+}
+
+#education .cont1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#education .cont2{
+    margin: 30px 70px 10px 70px;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+
+/* Technical skills */
+
+#tech h2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #160631;
+    margin-bottom: 50px;
+
+
+}
+
+#tech-skills  ul li{
+    display: inline;
+    padding: 50px 20px 50px 20px;
+}
+
+
+/* Contact Area */
+
+#contact .container{
+border-top: 1px solid #160631;
+padding: 90px 0px 90px 0px;
+margin: 90px auto 90px auto;
+}
+
+#contact form{
+    margin-top: 45px;
+}
+
+#contact form input{
+    width: 47%;
+    height: 45px;
+    border: 1px solid #160631;
+    padding-left: 10px;
+    color: #707070;
+    font-size: 14px;
+}
+
+#contact .input-details{
+    display:flex;
+    justify-content: space-between;
+}
+
+#contact form textarea{
+    margin-top: 18px;
+    width: 97%;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: #707070;
+    font-size: 14px;
+}
+
+#contact form .form-button{
+    width:98%;
+    cursor: pointer;
+    background-color: #160631;
+    color: #fff; 
+    margin-bottom: 20px;
+}
+
+/* Footer Area */
+footer{
+    /* margin-top: 150px;
+    padding: 25px; */
+    border-top: 1px solid #160631;
+    color: #a8a8a8;
+    font-size: 14px;
+    padding:30px 30px 50px 30px;
+    margin:0px auto;
+    background: #160631 ;
+}
+
+#address ul {
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-weight: bold;
+margin-bottom: 5px;
+line-height: 1,2em;
+
+}
